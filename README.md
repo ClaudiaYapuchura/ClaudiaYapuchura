@@ -1,5 +1,7 @@
+### Claudia Yapuchura
+
 [![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura-saire/)](https://www.linkedin.com/in/claudia-yapuchura-saire//)
-## Hi there 👋
+## Hi 👋
 I'm Claudia Yapuchura, I'm a Full Stack developer 👨‍💻 who is passionate about technologies, robotics and its entire ecosystem. 
 
 <!--
