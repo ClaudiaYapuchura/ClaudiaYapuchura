@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about: anime, music and books;
 - ⚡ Technologies: HTML, CSS, JS, Python e Django.
 
-[ Anurag's github stats ] (https://github-readme-stats.vercel.app/api?username=ClaudiaYapuchura21&show_icons= truea & layout = compact)
-[ Top Langs ] (https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaYapuchura21&layout=compact)
+![ Anurag's github stats ] (https://github-readme-stats.vercel.app/api?username=ClaudiaYapuchura21&show_icons= truea & layout = compact)
+![ Top Langs ] (https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaYapuchura21&layout=compact)
 
