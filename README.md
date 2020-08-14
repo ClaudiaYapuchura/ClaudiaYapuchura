@@ -12,15 +12,9 @@
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ClaudiaYapuchura21&show_icons=truea&layout=compact&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ClaudiaYapuchura21&theme=tokyonight" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaYapuchura21&layout=compact&theme=tokyonight" /></td>
   </tr>   
 </table>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaYapuchura21&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaYapuchura21&theme=tokyonight" /></td>
-    </tr> 
-  </table>
 </center>
 
 ## Hi 👋
