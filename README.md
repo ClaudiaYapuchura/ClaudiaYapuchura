@@ -1,7 +1,4 @@
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura-saire/)](https://www.linkedin.com/in/claudia-yapuchura-saire//)
-
 <!--
 **ClaudiaYapuchura21/ClaudiaYapuchura21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,6 +17,8 @@
 ## Hi 👋
 
 I'm a Full Stack developer 👨‍💻 who is passionate about technologies, robotics and its entire ecosystem. 
+
+[![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura-saire/)](https://www.linkedin.com/in/claudia-yapuchura-saire//)
 
 Here are some ideas to get you started:
 
