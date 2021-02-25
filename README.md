@@ -4,7 +4,7 @@
 -->
 <h2> Hi, I'm Claudia Yapuchura! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Systems Analysis and Development at <a href="http://www.unb.br">University IFSP  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Configuration Analyst at <a href="https://www.thoughtworks.com">MC1 - Win The Market  </a><img src="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="30"> 
+<p><em>Systems Analysis and Development at <a href="http://www.unb.br">University IFSP  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Configuration Analyst at <a href="https://www.thoughtworks.com">MC1 - Win The Market  </a><img src="https://gph.is/g/Z517GyQ" width="30"> 
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura/)](https://www.linkedin.com/in/claudia-yapuchura/)
