@@ -8,7 +8,7 @@
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura/)](https://www.linkedin.com/in/claudia-yapuchura/)
-[![Codewars: ClaudiaYapuchura](https://img.shields.io/badge/-ClaudiaYapuchura-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.codewars.com/users/Claudia%20/badges/micro)](https://www.codewars.com/users/Claudia%20/badges/micro)
+[![Codewars: ClaudiaYapuchura](https://www.codewars.com/users/Claudia%20/badges/micro-ClaudiaYapuchura-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.codewars.com/users/Claudia%20/badges/micro)](https://www.codewars.com/users/Claudia%20/badges/micro)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10870SD8MOeRD7ARFjIoue02z6qlyDbBj#scrollTo=LHZ46m6sdeJZ)
 
 
