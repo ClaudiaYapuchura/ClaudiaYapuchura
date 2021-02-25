@@ -25,6 +25,7 @@ const claudia = {
                       speaker: "Portuguese", "Spanish", "English",
                       mentor: "Generation Bootcamp Participants"
                     },
+  challenge: "I am doing the #pythoncompetitions challenge focused on python and competitions"
 }
 ```
 
