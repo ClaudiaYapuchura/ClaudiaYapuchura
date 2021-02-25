@@ -18,7 +18,6 @@ const claudia = {
 }
 ```
 
-```javascript
 <center>
 <table>
   <tr>
@@ -27,7 +26,6 @@ const claudia = {
   </tr>   
 </table>
 </center>
-```
 
 ## Hi 👋
 
