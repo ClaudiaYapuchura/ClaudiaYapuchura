@@ -4,7 +4,7 @@
 -->
 <h2> Hi, I'm Claudia Yapuchura! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="230">
-<p><em>Systems Analysis and Development at <a href="https://spo.ifsp.edu.br/">University IFSP  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Industrial Automation Technology at <a href="https://spo.ifsp.edu.br/">University IFSP  </a></br>Configuration Analyst at <a href="https://www.thoughtworks.com">MC1 - Win The Market  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Industrial Automation Technology at <a href="https://spo.ifsp.edu.br/">University IFSP  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Industrial Autat <a href="https://spo.ifsp.edu.br/">University IFSP  </a></br>Systems Analysis and Development at <a href="https://www.thoughtworks.com">MC1 - Win The Market  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-claudiayapuchura21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-yapuchura/)](https://www.linkedin.com/in/claudia-yapuchura/)
