@@ -2,21 +2,23 @@
 <!--
 **ClaudiaYapuchura21/ClaudiaYapuchura21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const claudia = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java, C++],
   tools: [React, Redux, Node,  Docker],
   architecture: [ "event-driven", "design system pattern"],
-  techCommunities": {
-                      coorganizer: "AfroPython",
-                      speaker: "Latinity",
-                      mentor: "RailsGirls POA"
+  techCommunities":{
+                      coorganizer: "Mastertech - SOMAS",
+                      speaker: "Portuguese", "Spanish", "English",
+                      mentor: "Generation Bootcamp Participants"
                     },
 }
 ```
 
+```javascript
 <center>
 <table>
   <tr>
@@ -25,6 +27,7 @@ const claudia = {
   </tr>   
 </table>
 </center>
+```
 
 ## Hi 👋
 
