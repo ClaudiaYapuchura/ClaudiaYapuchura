@@ -3,7 +3,19 @@
 **ClaudiaYapuchura21/ClaudiaYapuchura21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center"><img width=95% src="https://irp-cdn.multiscreensite.com/4d8ea012/dms3rep/multi/Flat-Design-Character-business-woman.gif"></p>
+```javascript
+const claudia = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node,  Docker],
+  architecture: [ "event-driven", "design system pattern"],
+  techCommunities": {
+                      coorganizer: "AfroPython",
+                      speaker: "Latinity",
+                      mentor: "RailsGirls POA"
+                    },
+}
+```
 
 <center>
 <table>
