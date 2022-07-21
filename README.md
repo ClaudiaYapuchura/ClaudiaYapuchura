@@ -16,7 +16,7 @@
 
 ```javascript
 const claudia = {
-  pronouns: "she" | "her",
+  pronouns: "she" | "her" | "ella",
   code: [Javascript, HTML, CSS, Python, Java, C++],
   tools: [React, Redux, Node,  Docker],
   architecture: [ "event-driven", "design system pattern"],
